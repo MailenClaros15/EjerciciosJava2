@@ -21,7 +21,7 @@ public class Rectangulo {
         base = lp.nextInt();
         altura = lp.nextInt();
         
-        
+         
     }
     
     public int getBase() {
